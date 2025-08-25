@@ -1,4 +1,4 @@
-# Parking System
+# Parking Ticket System
 
 ### Description
 This program is a console-based application that simulates a parking garage payment system. The user enters the number of hours a car was parked, and the program calculates the total parking fee while also tracking and displaying the previous day’s total charges. It provides a simple way to demonstrate input handling, loops, and method usage in C#.
