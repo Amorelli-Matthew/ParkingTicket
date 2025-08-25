@@ -1,0 +1,7 @@
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\obj\Debug\ParkingTicketConsoleApp.csproj.AssemblyReference.cache
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\obj\Debug\ParkingTicketConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\bin\Debug\ParkingTicketConsoleApp.exe.config
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\bin\Debug\ParkingTicketConsoleApp.exe
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\bin\Debug\ParkingTicketConsoleApp.pdb
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\obj\Debug\ParkingTicketConsoleApp.exe
+C:\Users\matt\source\repos\ParkingTicketConsoleApp\ParkingTicketConsoleApp\obj\Debug\ParkingTicketConsoleApp.pdb
