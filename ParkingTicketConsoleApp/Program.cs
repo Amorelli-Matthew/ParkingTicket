@@ -1,16 +1,26 @@
-﻿using System;
+/*
+ * Parking Ticket Console App
+ * Copyright (C) 2025 Matthew Amorelli
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+using System;
 
 namespace CalculateChargesConsoleApp
 {
-
-    // Name: Matthew Amorelli
-
-    // Date: October 20,2021
-
-    // Assignment: A parking garage   (Chapter 6 - Exercise 2)
-
-    // Description: a simple program where the user enters a number of hours and then the program will display it's total
-    // and display yesturdays total.
+    
     class Program
     {
         private static double money;
