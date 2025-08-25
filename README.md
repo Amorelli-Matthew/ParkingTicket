@@ -20,7 +20,7 @@ go to the ParkingTicketConsoleApp/bin/Release/ where the Application is located.
 In the current directory, run `msbuild ParkingTicketConsoleApp.sln /t:Clean`
 
 # License
-This project is licensed under GPGLV3
+This project is licensed under GPLV3
 
 ## Credits
 This project uses technologies licensed by Microsoft Corporation:
