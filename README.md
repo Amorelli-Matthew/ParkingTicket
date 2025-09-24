@@ -10,11 +10,11 @@ Choose the  .NET desktop Environment
 Make sure the .NET Framework version 4.7.2 is installed(check the box when installing the .NET desktop env)
 
 ### To Compile
-Open Developer Command Prompted for Visual Studio
-go into the project directory(Something like `C:\Users\YourUsername\source\repos\Project`)
+Open Developer Command Prompt for Visual Studio
+Go into the project directory(Something like `C:\Users\YourUsername\source\repos\ParkingTicketConsoleApp`)
 Then run: `msbuild ParkingTicketConsoleApp.sln /p:Configuration=Release`
 ### To Run
-go to the ParkingTicketConsoleApp/bin/Release/ where the Application is located.
+Go to the ParkingTicketConsoleApp/bin/Release/ where the Application is located and run ParkingTicketConsoleApp.exe
 
 ### To Clean Build Files
 In the current directory, run `msbuild ParkingTicketConsoleApp.sln /t:Clean`
